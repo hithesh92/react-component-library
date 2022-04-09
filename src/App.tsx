@@ -1,6 +1,6 @@
-import './App.css';
+import './App.scss';
 
-function App() {
+function App(): JSX.Element {
 	return <div className='App'>Welcome to home page</div>;
 }
 
